@@ -1,0 +1,184 @@
+[
+  {
+    "id": "tortilla-blanca",
+    "categoria": "tortillas",
+    "nombre": "Tortilla blanca",
+    "descripcion": "Tortilla de maíz blanco",
+    "detalles": {
+      "diametro": "5\"",
+      "presentaciones": ["500g", "1kg"]
+    },
+    "imagen": "/src/assets/img/productos/tortillas/tortilla-blanca.jpg",
+    "banner": "/src/assets/img/productos/tortillas/banner-tortilla-blanca.webp",
+    "codigo": "4T6A2355"
+  },
+  {
+    "id": "tortilla-amarilla",
+    "categoria": "tortillas",
+    "nombre": "Tortilla de mesa amarilla",
+    "descripcion": "Tortilla de maíz amarillo",
+    "detalles": {
+      "diametro": "5\"",
+      "presentaciones": ["500g", "1kg"]
+    },
+    "imagen": "/src/assets/img/productos/tortillas/tortilla-amarilla.jpg",
+    "banner": "/src/assets/img/productos/tortillas/banner-tortilla-amarilla.webp",
+    "codigo": "4T6A2390"
+  },
+  {
+    "id": "tortilla-de-nopal",
+    "categoria": "tortillas",
+    "nombre": "Tortilla de nopal",
+    "descripcion": "Tortilla de maíz preparado a base de nopal",
+    "detalles": {
+      "diametro": "5\"",
+      "presentaciones": ["500g", "1kg"]
+    },
+    "imagen": "/src/assets/img/productos/tortillas/tortilla-de-nopal.jpg",
+    "banner": "/src/assets/img/productos/tortillas/banner-tortilla-de-nopal.webp",
+    "codigo": "4T6A2401"
+  },
+  {
+    "id": "tortilla-barbacoa",
+    "categoria": "tortillas",
+    "nombre": "Tortilla de barbacoa",
+    "descripcion": "Tortilla taquera de maíz blanco",
+    "detalles": {
+      "diametro": "4.5\"",
+      "presentaciones": ["800gr", "1.9kg"]
+    },
+    "imagen": "/src/assets/img/productos/tortillas/tortilla-barbacoa.jpg",
+    "banner": "/src/assets/img/productos/tortillas/banner-tortilla-blanca.webp",
+    "codigo": "4T6A2373"
+  },
+  {
+    "id": "tortilla-especial",
+    "categoria": "tortillas",
+    "nombre": "Tortilla taquera pastor",
+    "descripcion": "Tortilla taquera de maíz blanco",
+    "detalles": {
+      "diametro": "4\"",
+      "presentaciones": ["700gr", "1.7kg"]
+    },
+    "imagen": "/src/assets/img/productos/tortillas/tortilla-especial.jpg",
+    "banner": "/src/assets/img/productos/tortillas/banner-tortilla-blanca.webp",
+    "codigo": "4T6A2377"
+  },
+  {
+    "id": "tostada",
+    "categoria": "frituras",
+    "nombre": "Tostada plana",
+    "descripcion": "Tostada de harina de maíz y maíz nixtamalizado",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["5 pz"]
+    },
+    "imagen": "/src/assets/img/productos/frituras/tostada.jpg",
+    "banner": "/src/assets/img/productos/frituras/banner-tortilla-blanca.webp",
+    "codigo": "4T6A2418"
+  },
+  {
+    "id": "taco-bell",
+    "categoria": "frituras",
+    "nombre": "Taco bell",
+    "descripcion": "Tostada de maíz en forma de taco lista para preparar",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["10 pz"]
+    },
+    "imagen": "/src/assets/img/productos/frituras/taco-bell.jpg",
+    "banner": "/src/assets/img/productos/frituras/banner-tortilla-blanca.webp",
+    "codigo": "4T6A2415"
+  },
+  {
+    "id": "tiritas",
+    "categoria": "frituras",
+    "nombre": "Tiritas de maíz",
+    "descripcion": "",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": []
+    },
+    "imagen": "/src/assets/img/productos/frituras/tiritas.jpg",
+    "banner": "/src/assets/img/productos/frituras/banner-tortilla-blanca.webp",
+    "codigo": "4T6A2416"
+  },
+  {
+    "id": "totopo-natural",
+    "categoria": "totopos",
+    "nombre": "Totopo natural",
+    "descripcion": "Totopo de maíz con un toque de sal.",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["280gr", "500gr", "1kg"]
+    },
+    "imagen": "/src/assets/img/productos/totopos/totopo-natural.png",
+    "banner": "/src/assets/img/productos/totopos/banner-tortilla-blanca.webp",
+    "codigo": null
+  },
+  {
+    "id": "totopo-natural-multigrano",
+    "categoria": "totopos",
+    "nombre": "Totopo natural multigrano",
+    "descripcion": "Totopo de maíz amarillo con ajonjoli, quinoa, chia y linaza.",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["200gr"]
+    },
+    "imagen": "/src/assets/img/productos/totopos/totopo-natural-multigrano.png",
+    "banner": "/src/assets/img/productos/totopos/banner-tortilla-blanca.webp",
+    "codigo": null
+  },
+  {
+    "id": "totopo-azul-multigrano",
+    "categoria": "totopos",
+    "nombre": "Totopo azul multigrano",
+    "descripcion": "Totopo de maíz azul con ajonjoli, quinoa, chia y linaza.",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["280gr"]
+    },
+    "imagen": "/src/assets/img/productos/totopos/totopo-azul-multigrano.png",
+    "banner": "/src/assets/img/productos/totopos/banner-tortilla-blanca.webp",
+    "codigo": null
+  },
+  {
+    "id": "totopo-cheddar",
+    "categoria": "totopos",
+    "nombre": "Totopo sabor cheddar",
+    "descripcion": "Totopo de maíz sabor queso cheddar.",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["280gr"]
+    },
+    "imagen": "/src/assets/img/productos/totopos/totopo-cheddar.png",
+    "banner": "/src/assets/img/productos/totopos/banner-tortilla-blanca.webp",
+    "codigo": null
+  },
+  {
+    "id": "totopo-picosito",
+    "categoria": "totopos",
+    "nombre": "Totopo picosito",
+    "descripcion": "Totopo de maíz enchilosito.",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["280gr"]
+    },
+    "imagen": "/src/assets/img/productos/totopos/totopo-picosito.png",
+    "banner": "/src/assets/img/productos/totopos/banner-tortilla-blanca.webp",
+    "codigo": null
+  },
+  {
+    "id": "totopo-de-nopal",
+    "categoria": "totopos",
+    "nombre": "Totopo de nopal",
+    "descripcion": "Totopo de nopal",
+    "detalles": {
+      "diametro": null,
+      "presentaciones": ["280gr"]
+    },
+    "imagen": "/src/assets/img/productos/totopos/totopo-de-nopal.png",
+    "banner": "/src/assets/img/productos/totopos/banner-tortilla-blanca.webp",
+    "codigo": null
+  }
+]
