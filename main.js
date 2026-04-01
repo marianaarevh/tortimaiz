@@ -1,5 +1,5 @@
 // Cargar navbar
-fetch("../components/nav.html")
+fetch("/components/nav.html")
   .then(response => response.text())
   .then(data => {
     document.getElementById("navbar").innerHTML = data;
@@ -25,7 +25,7 @@ fetch("../components/nav.html")
   });
 
 // Cargar footer
-fetch("../components/footer.html")
+fetch("/components/footer.html")
   .then(response => response.text())
   .then(data => {
     document.getElementById("footer").innerHTML = data;
