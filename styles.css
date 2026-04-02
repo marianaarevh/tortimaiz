@@ -464,7 +464,7 @@ font-size: 24px;
   background-image: url("src/assets/img/nosotros/nosotrosbg.jpg");
 }
 .banner-productos {
-  background-image: url("src/assets/img/productos/banner.webp");
+  background-image: url("src/assets/img/productos/banner.jpg");
 }
 .banner-industria{
   background-image: url("src/assets/img/nosotros/industria.jpg");
@@ -674,6 +674,13 @@ font-size: 24px;
   max-width: 700px;
 }
 
+@media (max-width: 1200px){
+.contenedor-section{
+  margin: 24px 36px;
+  padding: 12px 24px;
+}
+}
+
 @media (max-width: 900px) {
   .split-container {
     grid-template-columns: 1fr;
@@ -687,5 +694,12 @@ font-size: 24px;
       "img"
       "text";
   }
+  .contenedor-section{
+  margin: 16px 22px;
+  padding: 8px 14px;
 }
+}
+
+
+
 

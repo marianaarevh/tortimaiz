@@ -14,7 +14,7 @@ fetch('/src/assets/data/productos.json')
       const card = document.createElement('a');
       card.classList.add('producto-card');
 
-      card.href = `/producto.html?id=${producto.id}`;
+      card.href = `/producto/?id=${producto.id}`;
 
       card.innerHTML = `
         <div class="producto-img-container">
